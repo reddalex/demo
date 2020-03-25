@@ -1,0 +1,229 @@
+{
+    "getAllDataVisits":
+    [{
+        "id":"1",
+        "phoneNumber":"12345698",
+        "state":"Aguascalientes",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    },
+    {
+        "id":"2",
+        "phoneNumber":"344314134134",
+        "state":"CDMX",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"3",
+        "phoneNumber":"432432432432",
+        "state":"Veracruz",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"4",
+        "phoneNumber":"4234234234",
+        "state":"Coahuila",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"5",
+        "phoneNumber":"65756765756",
+        "state":"Estado de México",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"6",
+        "phoneNumber":"21312332112",
+        "state":"Monterrey",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"7",
+        "phoneNumber":"8787878978987",
+        "state":"Chiapas",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"8",
+        "phoneNumber":"3213123123312",
+        "state":"Oaxaca",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    },
+    {
+        "id":"1",
+        "phoneNumber":"65777868678",
+        "state":"Aguascalientes",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    },
+    {
+        "id":"2",
+        "phoneNumber":"543435435",
+        "state":"CDMX",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"3",
+        "phoneNumber":"654645645",
+        "state":"Veracruz",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"4",
+        "phoneNumber":"87686876876",
+        "state":"Coahuila",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"5",
+        "phoneNumber":"3132131221",
+        "state":"Estado de México",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"6",
+        "phoneNumber":"90890900990089",
+        "state":"Monterrey",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"7",
+        "phoneNumber":"q342424432432",
+        "state":"Chiapas",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"8",
+        "phoneNumber":"423432432423",
+        "state":"Oaxaca",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    } ,
+    {
+        "id":"1",
+        "phoneNumber":"54534534535",
+        "state":"Aguascalientes",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    },
+    {
+        "id":"2",
+        "phoneNumber":"21312313123",
+        "state":"CDMX",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"3",
+        "phoneNumber":"98799797978",
+        "state":"Veracruz",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"4",
+        "phoneNumber":"321321312312",
+        "state":"Coahuila",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"5",
+        "phoneNumber":"5555555555",
+        "state":"Estado de México",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"6",
+        "phoneNumber":"332321312312",
+        "state":"Monterrey",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"7",
+        "phoneNumber":"4456456565",
+        "state":"Chiapas",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }, 
+    {
+        "id":"8",
+        "phoneNumber":"54565546565",
+        "state":"Oaxaca",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    },
+    {
+        "id":"1",
+        "phoneNumber":"5555555555",
+        "state":"Aguascalientes",
+        "municipality": "Zumpango",
+        "town": "Zitlaltepec",
+        "records": "5",
+        "tests": "56"
+    }
+    ]
+}
