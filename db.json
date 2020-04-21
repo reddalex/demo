@@ -17,5 +17,94 @@
       "message": "Mesanje Generico",
       "id": 4
     }
+  ],
+
+  "sintomatoliga": [
+    {
+      "informacionUsuario":[
+         {
+            "generoEdad":[
+              {
+                "rango1" : {
+                  "hombre":3000,
+                  "mujer":4000
+                },
+                "rango2" : {
+                  "hombre":2000,
+                  "mujer":4000
+                },
+                "rango3" : {
+                  "hombre":5000,
+                  "mujer":1600
+                },
+                "rango4" : {
+                  "hombre":1500,
+                  "mujer":2500
+                },
+                "rango5" : {
+                  "hombre":3240,
+                  "mujer":4000
+                },
+                "rango6" : {
+                  "hombre":800,
+                  "mujer":1000
+                },
+                "rango7" : {
+                  "hombre":5000,
+                  "mujer":2000
+                },
+                "rango8" : {
+                  "hombre":800,
+                  "mujer":1000
+                },
+                "rango9" : {
+                  "hombre":4000,
+                  "mujer":2000
+                },
+                "rango10" : {
+                  "hombre":3000,
+                  "mujer":5000
+                }
+              }
+            ]
+         },
+         {
+            "perfilesAdicionales":1000000
+         },
+         {
+            "promedioPerfiles":4000
+         },
+         {
+            "totalPerfiles":8999
+         },
+         {
+            "derechoHabiente":{
+               "si":4000,
+               "no":5777
+            }
+         }
+      ],
+      "informacionTamiz":[
+         {
+            "primerTamiz":{
+               "fiebre":15000,
+               "dolorDeCabeza":9000,
+               "tos":6555,
+               "dolorGarganta":8999,
+               "dificultadRespiratoria":12333,
+               "escurrimientoNasal":89999,
+               "dolorDeCuerpo":5400,
+               "conjuntivitis":7000
+            }
+         },
+         {
+            "segundoTamiz":{
+               "dolorRespirar":3000,
+               "faltaDeAire":2000,
+               "coloracionAzul":1000
+            }
+         }
+      ]
+   }   
   ]
 }
